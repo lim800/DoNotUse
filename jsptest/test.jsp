@@ -7,6 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
+<form action="../GetPostTest" method="get">
+<input type="text" name="user">
+<input type="submit"> 
 
+
+
+</form>
 </body>
 </html>

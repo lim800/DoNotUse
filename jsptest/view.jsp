@@ -3,7 +3,7 @@
 
 <%
 request.setCharacterEncoding("UTF-8");
-String user = (String) request.getAttribute("user");
+String user = request.getParameter("user");
 
 %>
 
