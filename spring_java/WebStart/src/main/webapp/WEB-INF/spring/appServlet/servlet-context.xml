@@ -24,10 +24,19 @@
 	<!-- <context:annotation-config/> -->
 	
 	
-	
 	<context:component-scan base-package="web.spring.testcall" />
 	
 	<beans:bean class="web.spring.test.HomeController" id="home"></beans:bean>
 	
+	<!-- 20190426 -->
+	<context:component-scan base-package="jj.spring.test" />
+	
+<!-- 	<beans:bean class="jj.spring.testt.ArticleController" id="articleController" >
+	<beans:property name="articleService" ref="articleService"></beans:property>
+	</beans:bean> -->
+	
+<!-- 	<beans:bean class="jj.spring.test.service.ArticleService" id="articleService"/> -->
+	
+
 	
 </beans:beans>
