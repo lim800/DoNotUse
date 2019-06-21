@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561100673619.000,
+    "dirty" : false,
+    "encoding" : "ISO-8859-1",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EC998913",
+    "lastKnownWriteTime" : 1561100670,
+    "last_content_update" : 1561100670,
+    "path" : "~/AtomData/rdata/shine_test/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "48,34",
+        "scrollLine" : "28"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
